@@ -15,9 +15,11 @@ Joe Cerankowski. It was based on the Keylogger program from the "Complete Ethica
 mailing feature to enhance it.
 
 **What this Github contains**
+
 It contains the source code, the executable, and a jpeg embedded with the keylogger.
 
 **Is it completed?**
+
 No, I'm still working on the mailing feature.
 
 # Video
