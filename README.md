@@ -1,6 +1,6 @@
 # KeyLogger
 
-##What is this project?
+**What is this project?**
 
 This program is a Keylogger used to record the keystrokes of anyone who runs this application on their device.
 
