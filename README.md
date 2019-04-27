@@ -22,4 +22,8 @@ No, I'm still working on the mailing feature.
 
 # Video
 
-Here is a short gif of the application running:
+Here is a gif of the application's keylogging abilities:
+
+
+
+Here is a gif of the application's keymailing abilities:
