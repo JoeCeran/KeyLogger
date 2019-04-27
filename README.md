@@ -14,6 +14,12 @@ It can be used for securtiy testing and for knowledge on how to create Keylogger
 Joe Cerankowski. It was based on the Keylogger program from the "Complete Ethical Hacking Course" on Udemy. I then edited the code and added the 
 mailing feature to enhance it.
 
+**What this Github contains**
+It contains the source code, the executable, and a jpeg embedded with the keylogger.
+
+**Is it completed?**
+No, I'm still working on the mailing feature.
+
 # Video
 
 Here is a short gif of the application running:

